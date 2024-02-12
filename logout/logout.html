@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en">
+<head>
+    <!-- Your head content goes here -->
+    <script>
+        function confirmLogout() {
+            if (confirm("Are you sure you want to logout?")) {
+                window.location.href = "../logout/logout.php";
+            } else {
+                // If user cancels logout, redirect to the previous page
+                window.history.back();
+            }
+        }
+    </script>
+</head>
+<body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en">
+    <!-- Your header and other sections go here -->
+    <!-- Update the logout link to call the confirmLogout() function -->
+    <a href="#" onclick="confirmLogout()">Logout</a>
+    <!-- Your footer and other content go here -->
+</body>
+</html>
