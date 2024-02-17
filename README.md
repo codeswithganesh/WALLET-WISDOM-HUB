@@ -8,4 +8,4 @@ Keep a track of your own income and expenses and have a clear picture of where y
 In-view of Techsaksham project, we have designed a website to help the needy. We used HTML, CSS for the front-end and PHP for the back-end. We also used XAMPP server as our Local Host.
 
 ## VIDEO LINK
-https://drive.google.com/file/d/1Homc0wmQ3TiVxUYMikat423NhXBmjQqS/view?usp=drive_link
+https://drive.google.com/file/d/1Homc0wmQ3TiVxUYMikat423NhXBmjQqS/view?usp=drivesdk
